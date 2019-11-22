@@ -83,8 +83,7 @@ namespace WindowsFormsApp2
         {
         
             List<int> order = new List<int>();
-
-                        string input = Console.ReadLine();
+                                    string input = Console.ReadLine();
             //String[] ids = input.Split(',');
             ArrayList aList = new ArrayList();
 
